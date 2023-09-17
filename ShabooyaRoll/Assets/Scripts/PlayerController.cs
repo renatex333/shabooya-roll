@@ -57,4 +57,12 @@ public class PlayerController : MonoBehaviour
             SetCountText();
         }
     }
+
+    private void OnCollisionEnter(Collision other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            SceneManager.LoadScene("GameOverScene");
+        }
+    }
 }

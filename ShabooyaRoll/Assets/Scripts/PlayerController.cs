@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour
 
     void SetCountText()
     {
-        countText.text = "Shabooyas: " + count.ToString();
+        countText.text = "Shabooyas: " + count.ToString() + "/" + numberOfObjects.ToString();
         if (count >= numberOfObjects)
         {
             SceneManager.LoadScene("WinScene");

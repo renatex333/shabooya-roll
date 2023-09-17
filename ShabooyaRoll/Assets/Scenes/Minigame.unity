@@ -5808,8 +5808,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Timer Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a7758874fe012ff49913aeb71dd3eded, type: 2}
-  m_sharedMaterial: {fileID: -8797668296313584346, guid: a7758874fe012ff49913aeb71dd3eded,
+  m_fontAsset: {fileID: 11400000, guid: 8daca87c8e2b51842bd2ac82ea308417, type: 2}
+  m_sharedMaterial: {fileID: 5305316252011872816, guid: 8daca87c8e2b51842bd2ac82ea308417,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -7677,8 +7677,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Count Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a7758874fe012ff49913aeb71dd3eded, type: 2}
-  m_sharedMaterial: {fileID: -8797668296313584346, guid: a7758874fe012ff49913aeb71dd3eded,
+  m_fontAsset: {fileID: 11400000, guid: 8daca87c8e2b51842bd2ac82ea308417, type: 2}
+  m_sharedMaterial: {fileID: 5305316252011872816, guid: 8daca87c8e2b51842bd2ac82ea308417,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}

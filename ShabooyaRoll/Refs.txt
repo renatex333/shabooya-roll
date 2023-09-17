@@ -1,3 +1,4 @@
 https://learn.unity.com/project/roll-a-ball?uv=2022.3 - Tutorial do Unity
 https://www.1001fonts.com/video-game-fonts.html?page=4 - Zero Velocity font by Brian Kent
 https://youtu.be/1Ye-mCuIIdw?si=FvzyKx5-gYiDMYhp - Tutorial menu start
+https://mobidictum.com/game-industry/unity-timer/ - Timer tutorial

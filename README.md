@@ -41,6 +41,6 @@ I wish to express my gratitude to the following individuals and organizations fo
     - Source: https://opengameart.org/content/fast-fight-battle-music
 
 1. Contributor: yd
-    - Contribution: Spacelife #14
+    - Contribution: Spacelife #14 - Menu Screen Music
     - Contact/Website: https://opengameart.org/users/yd
     - Source: https://opengameart.org/content/spacelife-14

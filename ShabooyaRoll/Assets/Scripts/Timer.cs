@@ -24,7 +24,7 @@ public class Timer : MonoBehaviour
         minutes = Mathf.FloorToInt(timeRemaining / 60);
         seconds = Mathf.FloorToInt(timeRemaining % 60);
 
-        timerText.text = minutes.ToString() + ":" + seconds.ToString();
+        timerText.text = minutes.ToString("00") + ":" + seconds.ToString("00");
 
     }
 

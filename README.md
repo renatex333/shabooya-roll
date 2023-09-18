@@ -1,6 +1,6 @@
 # Shabooya Roll, a Roll-a-Ball Game
 
-[!BannerShabooya](BannerShabooya.png)
+![BannerShabooya](BannerShabooya.png)
 
 In this game, players roll a ball around to pick up special items called shabooyas. But watch out! There are red enemies chasing you. Can you grab all the shabooyas without getting caught? Roll, collect, and see if you can win!
 

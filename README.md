@@ -23,9 +23,24 @@ I wish to express my gratitude to the following individuals and organizations fo
 1. Contributor: Yiğithan Demirçin
     - Contribution: Game Timer Tutorial
     - Contact/Website: https://mobidictum.com/game-industry/unity-timer/
+    
+1. Contributor: Sorcerer
+    - Contribution: Game Audio Tutorial
+    - Contact/Website: https://youtu.be/KOf3P5y19Bw?si=lCrCesyaepmH2U8K
 
 ## Asset Contributions:
 
 1. Contributor: Jakob Fischer
-    - Contribution: Font
+    - Contribution: Arcade Classic - Font
     - Contact/Website: https://www.1001fonts.com/arcadeclassic-font.html
+    - Source: https://www.1001fonts.com/arcadeclassic-font.html
+
+1. Contributor: Ville Nousiainen
+    - Contribution: Fast Fight - Background Music
+    - Contact/Website: http://soundcloud.com/mutkanto
+    - Source: https://opengameart.org/content/fast-fight-battle-music
+
+1. Contributor: yd
+    - Contribution: Spacelife #14
+    - Contact/Website: https://opengameart.org/users/yd
+    - Source: https://opengameart.org/content/spacelife-14

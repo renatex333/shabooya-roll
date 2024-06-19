@@ -45,7 +45,7 @@ I wish to express my gratitude to the following individuals and organizations fo
     - Contact/Website: https://opengameart.org/users/yd
     - Source: https://opengameart.org/content/spacelife-14
 
-# Tradução para o Português
+# [Português-BR]
 
 Neste jogo, os jogadores movimentam uma bola para pegar itens especiais chamados shabooyas. Mas cuidado! Há inimigos vermelhos perseguindo você. Você consegue pegar todos os shabooyas sem ser pego? Role, colete e veja se consegue vencer!
 
